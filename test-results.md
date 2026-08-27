@@ -1,7 +1,4 @@
 # Test Results
-
-> Replace pending fields with actual output after running each prompt in the configured ChatGPT Project. Expected behavior alone does not count as completed testing.
-
 ## Realistic-Use Tests
 
 ### Test 1 — Staffing Gap by Role
