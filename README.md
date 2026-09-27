@@ -56,7 +56,7 @@ These belong in the access-controlled ChatGPT Project, not this public repositor
 
 ## Testing
 
-Actual results and revisions are recorded in [docs/test-results.md](docs/test-results.md). Planned outcomes are not presented as completed tests.
+Actual results and revisions are recorded in test-results.md. Planned outcomes are not presented as completed tests.
 
 ## Governance and Privacy
 
